@@ -20,6 +20,6 @@
   - [LukeMurphey/perseus-greek-and-roman-texts](LukeMurphey/perseus-greek-and-roman-texts)
   - [nkallen/perseus-greco-roman](nkallen/perseus-greco-roman)
 
-## links
+### links
 - [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
 - [Daedalus](http://daedalus.umkc.edu/) – Projects in digital humanities
