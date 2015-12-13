@@ -11,6 +11,8 @@
 - [hexameter](epilanthanomai/hexameter) – Libraries and command-line tools for metrical analysis of epic Greek hexameter
 - [Latin and Ancient Greek for NLTK](/hapaxapah/Latin_and_Ancient_Greek_for_NLTK) – Ancient Greek and Latin for the Natural Language Toolkit
 - [/ajkannan/Classics](/ajkannan/Classics) – Latin dictionary and scansion in python
+- [Homer Multitext](https://github.com/homermultitext)
+- [Alpheios Project](https://github.com/alpheios-project)
 
 ### data
 - [Thesaurus Morphologicus Linguae Graecae](/gcelano/Thesaurus_Morphologicus_Linguae_Graecae) – Morphological forms of Ancient Greek as derived from the LSJ
