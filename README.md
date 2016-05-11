@@ -10,9 +10,11 @@
 ### code
 - [hexameter](https://github.com/epilanthanomai/hexameter) – Libraries and command-line tools for metrical analysis of epic Greek hexameter
 - [Latin and Ancient Greek for NLTK](https://github.com/hapaxapah/Latin_and_Ancient_Greek_for_NLTK) – Ancient Greek and Latin for the Natural Language Toolkit
-- [/ajkannan/Classics](https://github.com/ajkannan/Classics) – Latin dictionary and scansion in python
+- [ajkannan/Classics](https://github.com/ajkannan/Classics) – Latin dictionary and scansion in python
 - [Homer Multitext](https://github.com/homermultitext)
 - [Alpheios Project](https://github.com/alpheios-project)
+- [shib71/latin-stemming](https://github.com/shib71/latin-stemming) – Functions for getting the stems for Latin words. Based on the Schinke algorithm
+- [vishnumenon/WhitakersWords](https://github.com/vishnumenon/WhitakersWords) – A website that uses the raw Whitaker's Words dictionary and a custom searching function to provide a totally client-side latin-english and english-latin dictionary
 
 ### data
 - [Thesaurus Morphologicus Linguae Graecae](https://github.com/gcelano/Thesaurus_Morphologicus_Linguae_Graecae) – Morphological forms of Ancient Greek as derived from the LSJ
