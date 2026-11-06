@@ -23,6 +23,7 @@
 - Perseus' Greek and Roman Texts
   - [LukeMurphey/perseus-greek-and-roman-texts](https://github.com/LukeMurphey/perseus-greek-and-roman-texts)
   - [nkallen/perseus-greco-roman](https://github.com/nkallen/perseus-greco-roman)
+- [socratos-data](https://github.com/tferris13/socratos-data) – Lemmatized and parsed Greek and Latin texts from Perseus, with LSJ and Lewis & Short entries, as TSV and JSON Lines (CC BY-SA 4.0), from [Socratos](https://socratos.org)
 
 ### links
 - [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
